@@ -1,0 +1,25 @@
+body1{
+  text-align:left;
+  text-decoration: solid;
+  font-style: italic;
+  
+    background-color: rgb(10, 11, 11);
+    color: rgb(0, 0, 0);
+}
+body2{
+  background-color: #dccaca;
+  color: rgb(32, 43, 164);
+}
+body3{
+  background-color: #000000;
+  color: rgb(248, 240, 240);
+}
+body4{
+background-color: #e32a2a;
+color: yellow;
+}
+body6{
+  text: size adjust 100px;
+background-color: #000000;
+text-color: #fff;
+}
